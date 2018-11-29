@@ -4,3 +4,4 @@ logs/
 themes/casper
 dump-db
 casper-pull-upstream
+casper-bundle-assets
