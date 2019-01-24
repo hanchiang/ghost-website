@@ -6,8 +6,7 @@ Syntax highlighter: [Rainbow.js](https://craig.is/making/rainbows)
 
 ## TODO
 * Make code snippets and highlight more readable and friendly
-* Image optimisation
-  * Serve scaled images(e.g. post featured image thumbnail)
+* Resources section for the tools I use, e.g. vscode, zsh, yada yada
 
 ## How to
 **Insert image with caption**
