@@ -5,5 +5,5 @@ themes/casper
 dump-db
 casper-pull-upstream
 casper-bundle-assets
-ghost-password
+droplet-password
 copy-db-to-prod
