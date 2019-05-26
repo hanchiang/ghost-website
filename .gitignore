@@ -1,9 +1,4 @@
 node_modules/
 data/
 logs/
-themes/casper
-dump-db
-casper-pull-upstream
-casper-bundle-assets
-droplet-password
-copy-db-to-prod
+scripts
