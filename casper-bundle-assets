@@ -1,9 +1,0 @@
-pwd=$(pwd)
-cd ./themes/han-casper
-
-echo "Building asssets for han-casper..."
-npm run build-once
-echo "Done!"
-echo
-
-cd $pwd
